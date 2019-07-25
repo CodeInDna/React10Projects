@@ -418,3 +418,7 @@ footer .copyright {
   font-size: 16px;
   padding: 25px 35px;
 }
+
+.back-img{
+  background: url(../img/home-bg.jpg) !important;
+}
